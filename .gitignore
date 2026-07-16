@@ -1,3 +1,5 @@
 AI_ML/raw_materials/
 *.exe
 .virtual_documents
+.vscode
+AI_ML/Codes/.ipynb_checkpoints
